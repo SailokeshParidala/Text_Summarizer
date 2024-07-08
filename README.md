@@ -57,3 +57,9 @@ If you would like to contribute to QuickViewInsight, please fork the repository 
 
 ![image](https://github.com/SailokeshParidala/Text_Summarizer/assets/119427516/62a93a7d-9bca-40ed-852e-90ecd0dd587c)
 
+![image](https://github.com/SailokeshParidala/Text_Summarizer/assets/119427516/8c8cd109-65cd-4c58-a017-78418722eacc)
+
+![image](https://github.com/SailokeshParidala/Text_Summarizer/assets/119427516/01cabfc3-56f7-4f89-9438-906d21787145)
+
+
+
